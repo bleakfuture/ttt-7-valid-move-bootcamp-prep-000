@@ -17,3 +17,6 @@ def on_board?(num)
       return false
     end
   end
+  
+  
+  
